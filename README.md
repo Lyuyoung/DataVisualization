@@ -1,6 +1,7 @@
 ﻿# DataVisualization
 AmereicanFlights by D3.js
 
+直接查看: http://bl.ocks.org/Lyuyoung/9e27b7d1212331c407ee9e2a951eb71e
 该可视化描绘了1988-2007年全美主要航空公司的年度航班飞行总数的统计变化。
 
 设计 
